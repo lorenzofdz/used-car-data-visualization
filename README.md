@@ -1,4 +1,3 @@
-# proyecto_sprint_4
 # Nombre del Proyecto: Análisis de Datos de Vehículos
 
 ## Descripción
