@@ -2,6 +2,9 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+# Agregar un encabezado a la aplicación
+st.header('Análisis Exploratorio de Datos de Vehículos Usados')
+
 # Leer los datos
 car_data = pd.read_csv(r'C:\Users\Lorenzo\Desktop\ORDER_L8R\Data_Analysis\TripleTen\Sprints\Sprint_4\Notebooks\Capitulo_7\proyecto_sprint_4\vehicles_us.csv', sep=',')
 
