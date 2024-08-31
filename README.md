@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es una aplicación web desarrollada con Streamlit, diseñada para facilitar la visualizacion de datos de vehículos usados. La aplicación permite a los usuarios visualizar de manera interactiva distintos aspectos del conjunto de datos, proporcionando una representación gráfica sobre la distribución y las relaciones entre diferentes variables, como el precio, el odómetro, y otras características relevantes de los vehículos.
+En este proyecto desarrollé una aplicación web con Streamlit, diseñada para facilitar la visualización de datos de vehículos usados. La aplicación permite a los usuarios visualizar de manera interactiva distintos aspectos del conjunto de datos, proporcionando una representación gráfica sobre la distribución y las relaciones entre diferentes variables, como el precio, el odómetro y otras características relevantes de los vehículos.
 
 ## Funcionalidades
 
