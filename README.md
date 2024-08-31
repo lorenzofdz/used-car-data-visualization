@@ -12,8 +12,6 @@ La aplicación web ofrece las siguientes funcionalidades:
 
 - **Gráficos de Dispersión**: La aplicación también permite crear gráficos de dispersión, facilitando la exploración de las relaciones entre dos variables, como el precio y el odómetro. Esta funcionalidad es clave para identificar patrones o tendencias, como la depreciación del vehículo en relación con su kilometraje.
 
-- **Interactividad**: Gracias a las casillas de verificación, los usuarios tienen el control sobre qué gráficos generar, haciendo de la exploración de datos una experiencia más interactiva y personalizada.
-
 ## Cómo Utilizar
 
 Para utilizar la aplicación, simplemente seleccione la casilla de verificación correspondiente a la visualización que desea explorar. La aplicación generará automáticamente el gráfico seleccionado basándose en los datos actuales del conjunto de datos de vehículos usados.
