@@ -1,8 +1,8 @@
-# Nombre del Proyecto: Análisis de Datos de Vehículos
+# Construccion de Web App para Visualizacion de Datos
 
 ## Descripción
 
-Este proyecto es una aplicación web desarrollada con Streamlit, diseñada para facilitar el análisis exploratorio de datos de vehículos usados. La aplicación permite a los usuarios visualizar de manera interactiva distintos aspectos del conjunto de datos, proporcionando insights rápidos y útiles sobre la distribución y las relaciones entre diferentes variables, como el precio, el odómetro, y otras características relevantes de los vehículos.
+Este proyecto es una aplicación web desarrollada con Streamlit, diseñada para facilitar la visualizacion de datos de vehículos usados. La aplicación permite a los usuarios visualizar de manera interactiva distintos aspectos del conjunto de datos, proporcionando una representación gráfica sobre la distribución y las relaciones entre diferentes variables, como el precio, el odómetro, y otras características relevantes de los vehículos.
 
 ## Funcionalidades
 
@@ -18,7 +18,7 @@ La aplicación web ofrece las siguientes funcionalidades:
 
 Para utilizar la aplicación, simplemente seleccione la casilla de verificación correspondiente a la visualización que desea explorar. La aplicación generará automáticamente el gráfico seleccionado basándose en los datos actuales del conjunto de datos de vehículos usados.
 
-## Requisitos
+## Habilidades Técnicas
 
 - Streamlit
 - Pandas
