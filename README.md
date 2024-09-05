@@ -16,10 +16,11 @@ La aplicación web ofrece las siguientes funcionalidades:
 
 Para utilizar la aplicación, simplemente seleccione la casilla de verificación correspondiente a la visualización que desea explorar. La aplicación generará automáticamente el gráfico seleccionado basándose en los datos actuales del conjunto de datos de vehículos usados.
 
-## Habilidades Técnicas
-
-- Streamlit
-- Pandas
-- Plotly Express
+**Lenguajes y herramientas principales**  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Streamlit-4A4A4A?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-5A5A5A?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly_Express-6A6A6A?style=for-the-badge&logo=plotly&logoColor=white" />
+</div>
 
 Liga de la Web App: https://proyecto-sprint-4-vlkw.onrender.com/
